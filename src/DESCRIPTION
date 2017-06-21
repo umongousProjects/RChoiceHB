@@ -1,0 +1,21 @@
+Package: RChoiceHB
+Type: Package
+Title: Conjoint with Hierarchical Bayes R package
+Version: 1.0
+Date: 2017-6-22
+Author: Ivan Konanykhin <ivan@aytm.com>
+Suggests: bayesm, MASS, lattice, Matrix
+Description: Implements an MCMC algorithm to estimate a hierarchical
+        multinomial logit model with a normal heterogeneity
+        distribution. This simpified version is based mostly on
+        ChoiceModelR by Decision Analyst.
+        https://cran.r-project.org/web/packages/ChoiceModelR/index.html
+License: GPL (>= 3)
+Copyright: (C) 2017, Umongous, Inc.
+URL: http://aytm.com
+LazyLoad: yes
+Packaged: 2017-6-22 3:42:00 UTC; ivan
+Maintainer: Ivan Konanykhin <ivan@aytm.com>
+Depends: R (>= 2.10)
+Repository: CRAN
+Date/Publication: 2017-6-22 3:42:00;
