@@ -10,6 +10,7 @@ This program is based on ChoiceModelR package by Decision Analyst, Inc. which
 itself is built upon the excellent work of Peter Rossi, Ph.D., 
 Anderson School, UCLA.  In particular it builds on the rhierMnlRwMixture
 program of the R Language package, bayesm, authored by Peter Rossi.
+Further modifications have been peformed to make the code c++ compatible for better performance.
 
 Copyright (C) 2017 Umongous, Inc.
                    123 10th St. 

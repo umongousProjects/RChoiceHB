@@ -1,8 +1,8 @@
 Package: RChoiceHB
 Type: Package
 Title: Conjoint with Hierarchical Bayes R package
-Version: 1.0
-Date: 2017-6-22
+Version: 1.1
+Date: 2018-2-8
 Author: Ivan Konanykhin <ivan@aytm.com>
 Suggests: bayesm, MASS, lattice, Matrix
 Description: Implements an MCMC algorithm to estimate a hierarchical
@@ -16,6 +16,7 @@ URL: http://aytm.com
 LazyLoad: yes
 Packaged: 2017-6-22 3:42:00 UTC; ivan
 Maintainer: Ivan Konanykhin <ivan@aytm.com>
-Depends: R (>= 2.10)
+Depends: R (>= 2.10), AlgDesign, mclust, dummy
+LinkingTo: Rcpp, RcppArmadillo
 Repository: CRAN
 Date/Publication: 2017-6-22 3:42:00;

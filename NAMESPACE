@@ -1,0 +1,3 @@
+useDynLib(RChoiceHB)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
